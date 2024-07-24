@@ -1,7 +1,6 @@
-//The server.js file should look like this: 
 //create a .env file and add SESSION_SECRET (.env should NOT has a prefix)
 //add MONGO_URI='{my monogodb URI}' t0 the .env file and ensure that the username and password are URLencoded
-
+//The server.js file should look like this:
 'use strict';
 require('dotenv').config();
 const express = require('express');

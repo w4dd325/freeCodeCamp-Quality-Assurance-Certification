@@ -1,3 +1,5 @@
+//Make sure .env is added
+//The server.js file should look like this:
 'use strict';
 require('dotenv').config();
 const express = require('express');
